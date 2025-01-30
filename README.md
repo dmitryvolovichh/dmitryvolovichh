@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--## 🚀 About Me
+## Hi there 👋## 🚀 About Me
 I'm a **Product Analyst** passionate about data, business insights, and product growth.
 
 - 🔭 Currently training at **Yandex.Praktikum IT School**
@@ -15,6 +13,11 @@ I'm a **Product Analyst** passionate about data, business insights, and product 
 
 ## 📫 Connect with Me
 - 💬 Telegram: [@dmitriyvolovich](https://t.me/dmitriyvolovich)
+
+---
+
+💡 Always open to discussions and collaborations in data & product analytics!
+
 
 ---
 
