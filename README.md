@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
+<!--## 🚀 About Me
+I'm a **Product Analyst** passionate about data, business insights, and product growth.
+
+- 🔭 Currently training at **Yandex.Praktikum IT School**
+- 🎓 Studying at **Ural Federal University**
+- 🤖 Improving my **Product Analytics** skills
+
+## 🛠️ Tech Stack
+
+- **Programming & Query Languages:** Python, SQL  
+- **Databases:** PostgreSQL, ClickHouse  
+- **Analytics & BI Tools:** Tableau, Metabase  
+
+## 📫 Connect with Me
+- 💬 Telegram: [@dmitriyvolovich](https://t.me/dmitriyvolovich)
+
+---
+
+💡 Always open to discussions and collaborations in data & product analytics!
 **dmitryvolovichh/dmitryvolovichh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
